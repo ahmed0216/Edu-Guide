@@ -1,6 +1,5 @@
 EduGuide 🎓🤖
 
-
 EduGuide is a chatbot designed to assist students in our department by providing information about course prerequisites and faculty regulations. Built as our graduation project, it helps students navigate their academic journey more efficiently.
 
 Features:
